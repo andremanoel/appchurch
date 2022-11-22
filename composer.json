@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "andremanoel/app-church",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Gerenciamento de Igrejas",
+    "keywords": ["framework", "church", "igreja"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
